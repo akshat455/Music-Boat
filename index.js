@@ -25,7 +25,7 @@ const sharderOptions = {
 };
 
 
-mongoose.connect(process.env.MONGO_URI, {
+mongoose.connect("mongodb+srv://Cluster0:Cluster0@cluster0.sx0dg.mongodb.net/data", {
     useUnifiedTopology : true,
     useNewUrlParser: true,
 }).then(console.log('connected to mongo db'));
