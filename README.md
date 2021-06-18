@@ -12,6 +12,7 @@
 
 - Clone the Repo by typing git clone `https://github.com/Just-Msv/Music-Boat` or Download the .rar file
 - Set up your `misc.json` & `config.json` files with your respective information.
+- Replace the `MONGO_URI` in `index.js` on `28`th Line ( Then Only The Bot Works )
 - **Install** all the packages by typing `npm i`
 - **Start** the bot by typing `npm start`.
 
