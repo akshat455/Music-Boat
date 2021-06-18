@@ -1,0 +1,32 @@
+{
+  "name": "Music-Boat",
+  "version": "1.0.0",
+  "description": "<img width=\"150\" height=\"150\" align=\"left\" style=\"float: left; margin: 0 10px 0 0;\" alt=\"Msv\" src=\"https://images-ext-2.discordapp.net/external/Ka_IS9BvD6t_bn-En4XVR36Dmw6BWmNOOUHaClv4WF8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/807855659173150781/f360c03f3ba6705c4d994b4edb19a634.png?width=427&height=427\">",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Just-Msv/Music-Boat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Just-Msv/Music-Boat/issues"
+  },
+  "homepage": "https://github.com/Just-Msv/Music-Boat#readme",
+  "dependencies": {
+    "@tetracyl/erela.js": "^1.5.1",
+    "discord.js": "^12.5.3",
+    "kurasuta": "^2.2.3",
+    "lavasfy": "^2.3.0",
+    "lyrics-finder": "^21.7.0",
+    "mongoose": "^5.12.14",
+    "pretty-ms": "^7.0.1",
+    "shoukaku": "^1.6.4",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
