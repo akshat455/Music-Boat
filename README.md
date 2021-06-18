@@ -7,6 +7,8 @@
 
 - A open source Discord bot recoded in JavaScript with [Discord.js](https://discord.js.org/#/) , [lavalink](https://www.npmjs.com/package/lavalink) & [Shoukaku](https://deivu.github.io/Shoukaku/) by My Team.
 - It Is Easy To Host In Vistual Studio Code And Replit
+- If U like The Bot Invite Music Boat To Your Server
+- [Click Here To Invite Music-Boat](https://discord.com/api/oauth2/authorize?client_id=807855659173150781&permissions=20442432&scope=bot)
 
 # Bot Setup ⚒
 
