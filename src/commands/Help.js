@@ -21,7 +21,7 @@ class Help extends Command {
     async run(msg) {
 
         const embed = util.embed()
-            .setTitle('>  <a:NotaMusical:848214815146115102>  Commands List')
+            .setTitle('>  Music-Boat  Commands List')
             .setDescription(`My Prefix is ${misc.prefix}`)
             .addField('**❯ Music**:','`Play`,`Forward`, `Rewind`, `Lyrics`, `Pause`, `Queue`, `Replay`, `Search`, `Seek`, `Seek2`, `Skip`, `Skipto`, `Stop`, `Ping`, `Remove`, `Removedupes`, `Clear`,  `Volume`, `Shuffle`, `Nowplaying`, `Move`')
             .addField('**❯ Filters**:','`Bassboost`, `Rate`, `Pitch`, `Speed`, `Rotation`, `Nightcore`, `Vaporwave`,`ClearFilters`')
