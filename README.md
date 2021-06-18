@@ -8,3 +8,13 @@
 - A open source Discord bot recoded in JavaScript with [Discord.js](https://discord.js.org/#/) , [lavalink](https://www.npmjs.com/package/lavalink) & [Shoukaku](https://deivu.github.io/Shoukaku/) by My Team.
 - It Is Easy To Host In Vistual Studio Code And Replit
 
+# Bot Setup ⚒
+
+- Clone the Repo by typing git clone `https://github.com/Just-Msv/Music-Boat` or Download the .rar file
+- Set up your `misc.json` & `config.json` files with your respective information.
+- **Install** all the packages by typing `npm i`
+- **Start** the bot by typing `npm start`.
+
+# Lavalink Setup On Replit 🔉
+
+- Check [**Lavalink-Replit**](https://github.com/Just-Msv/lavalink-replit) And You Can Host Your Self 😁 The Lavalink Server
