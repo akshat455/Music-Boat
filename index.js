@@ -25,7 +25,7 @@ const sharderOptions = {
 };
 
 
-mongoose.connect("mongodb+srv://devilboy99:Akshat7767@devilbot.nl9a4.mongodb.net/", {
+mongoose.connect("mongodb+srv:///", {
     useUnifiedTopology : true,
     useNewUrlParser: true,
 }).then(console.log('connected to mongo db'));
